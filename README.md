@@ -9,9 +9,9 @@ This version was generated using **R Markdown** and includes formatted outputs a
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
-The analysis uses open vehicle registration data from the state of Washington to explore trends in EV adoption, Tesla's market share, model sales, revenue estimates, electric range comparisons, and more.
+The analysis utilizes open vehicle registration data from the state of Washington to examine trends in EV adoption, Tesla's market share, model sales, revenue estimates, electric range comparisons, and other related metrics.
 This project is coded in **R**, using libraries such as `dplyr`, `ggplot2`, and `tidyr`, and includes multiple visualizations to support each research question.
 
 ---
